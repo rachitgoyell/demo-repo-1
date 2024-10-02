@@ -8,6 +8,9 @@ function sayName() {
 }
 
 function isabove18() {
+    console.log("this is a new feature");
+    
     return age>= 18
+
 }
 
